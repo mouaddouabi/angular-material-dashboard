@@ -5,7 +5,7 @@ import { DashboardComponent } from './modules/dashboard/dashboard.component';
 import { PostsComponent } from './modules/posts/posts.component';
 
 const routes: Routes = [{
-  path: '',
+  path: 'fff',
   component: DefaultComponent,
   children: [{
     path: '',
